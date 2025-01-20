@@ -28,7 +28,21 @@ STEPS USED
 6.renamed the table sales_orders.
 7. inserted 10 rows to the table.
 8. updated the table by changing the product_category to stationary.
-8. removed the table from the database.
+
+
+#SQL assignment 3
+
+The assignment includes creating the database,table, retrieving the data etc.
+STEPS USED
+
+1.Created a database named survey.
+2. Use the database.
+3.create the table named managers.
+4.displayed the annual income of managers
+7. inserted 10 rows to the table.
+8.excluded the details of aaliya and displayed he oher managers.
+9. displayed managers of IT dept who earns more than 25000.
+10. displayed the annual income of managers between 10000 and 35000.
 
 
 
