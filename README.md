@@ -64,6 +64,29 @@ STEPS USED
 13.all countries with population between 5 lakhs and 20 lakhs
 14.countries whose name names do not start with 'C'
 
+#SQL assignment 5
+
+The assignment includes creating the database,table, count, clauses etc.
+STEPS USED
+
+1.Created a database named detaiLS.
+2. Use the database.
+3.created the tables named country and persons .
+4. inserted 10 rows to both the tables.
+5.print the first 3 characters of country_name from country table
+6. concatenate fname and lname from persons table.
+7. to count no of unique country from the person table
+8.maximum population from the country table
+9.#minimum population from the persons table
+10.insert 2 new rows to person table from making the lname null
+11.count the Lname from the person table
+12.to find no of rows in persons table
+13.show the population of first 3 rows of country table
+14.print 3 random rows of country
+15.list all persons by rating in desc order 
+16.total population for each country in persons table
+17.find countries in the persons table with a total population greater than 50,000.
+18.list the total no of persons and average rating for each country,but only for the country for more than 2 persons, ordered by the average rating in asc order.
 
 
 
