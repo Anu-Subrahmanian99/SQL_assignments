@@ -88,5 +88,17 @@ STEPS USED
 17.find countries in the persons table with a total population greater than 50,000.
 18.list the total no of persons and average rating for each country,but only for the country for more than 2 persons, ordered by the average rating in asc order.
 
+#SQL assignment 6
 
+The assignment includes creating the database,table, retrieving the data etc.
+STEPS USED
+
+1.Created a database named joints.
+2. Use the database.
+3.create the table named country and persons.
+4.use of inner joint.
+5.use of left joint, right joint.
+6.list distinct country from both the tables
+7. list all country names from both the country and persons table, including duplicates.
+8. round the ratings of all persons to the nearest integer in the persons table.
 
