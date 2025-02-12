@@ -102,3 +102,18 @@ STEPS USED
 7. list all country names from both the country and persons table, including duplicates.
 8. round the ratings of all persons to the nearest integer in the persons table.
 
+#SQL assignment 7
+
+The assignment includes creating the database,table, retrieving the data etc.
+STEPS USED
+
+1.Created a database named length.
+2. Use the database.
+3.create the table named country and persons.
+4.Insert 10 rows to each to the tables.
+5.add new column to the persons table.
+6.add user-defined function to calculate age using DOB.
+7. Write a select query to fetch the Age of all persons using the function that has been created.
+8. Find the length of each country name in the Country table.
+9.Extract the first three characters of each country's name in the Country table.
+10.Convert all country names to uppercase and lowercase in the Country table.
