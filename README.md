@@ -117,3 +117,15 @@ STEPS USED
 8. Find the length of each country name in the Country table.
 9.Extract the first three characters of each country's name in the Country table.
 10.Convert all country names to uppercase and lowercase in the Country table.
+
+#SQL assignment 8
+
+The assignment includes creating the database, stored procedure etc.
+STEPS USED
+
+1.Created a database named job.
+2. Use the database.
+3.Create a stored procedure to add a new record to the Worker table.
+4.Create a stored procedure to retrieve the salary of a worker based on WORKER_ID.
+5.Create a stored procedure to count the number of workers in a given department
+6.Create a stored procedure to retrieve the average salary of workers in a given department.
