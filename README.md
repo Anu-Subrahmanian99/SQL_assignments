@@ -129,3 +129,17 @@ STEPS USED
 4.Create a stored procedure to retrieve the salary of a worker based on WORKER_ID.
 5.Create a stored procedure to count the number of workers in a given department
 6.Create a stored procedure to retrieve the average salary of workers in a given department.
+
+
+#SQL assignment 9
+
+The assignment includes creating the database, use before after triggers, update, delete etc.
+STEPS USED
+
+1.Created a database named timeable.
+2. Use the database.
+3.create table teachers
+3.Create a before insert trigger before_insert_teacher.
+4.Create an after insert trigger after_insert_teacher.
+5.Create a before delete trigger to raise an error if experience is greater than 10 years.
+6.Create an after delete trigger to insert into teacher_log when a row is deleted.
