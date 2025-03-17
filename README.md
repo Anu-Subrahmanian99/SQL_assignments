@@ -143,3 +143,20 @@ STEPS USED
 4.Create an after insert trigger after_insert_teacher.
 5.Create a before delete trigger to raise an error if experience is greater than 10 years.
 6.Create an after delete trigger to insert into teacher_log when a row is deleted.
+
+#SQL module end assignment - library management
+1. create  a database library
+2. create 6 tables
+3. Insert values to those tables
+4. Retrieve the book title, category, and rental price of all available books.
+5. List the employee names and their respective salaries in descending order of salary.
+6. Retrieve the book titles and the corresponding customers who have issued those books.
+7. Display the total count of books in each category
+8.Retrieve the employee names and their positions for the employees whose salaries are above Rs.50,000.
+9.List the customer names who registered before 2022-01-01 and have not issued any books yet.
+10.Display the branch numbers and the total count of employees in each branch.
+11. Display the names of customers who have issued books in the month of June 2023.
+12. Retrieve book_title from book table containing history.
+13. Retrieve the branch numbers along with the count of employees for branches having more than 5 employees
+14. Retrieve the names of employees who manage branches and their respective branch addresses.
+15. Display the names of customers who have issued books with a rental price higher than Rs. 25.
